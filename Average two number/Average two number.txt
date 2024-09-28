@@ -1,0 +1,12 @@
+//Create a Java program to find the average of two numbers.
+package average of two numbers;
+
+package Average Two Number.Java;
+public class Average Two number{
+    public static void main(String[] agrs){
+        int num1=5;
+        int num2=6;
+        float average=(float)(num1+num2)/2;
+        System.out.println("Result:"+average);
+    }
+}
